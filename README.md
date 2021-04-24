@@ -1,4 +1,4 @@
-### dustin.fht
+### dustin-codes
 ---
 Hello there! 
 I am Dustin, 18 years old and I love to code!
