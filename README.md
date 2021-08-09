@@ -1,7 +1,7 @@
 ### dustin-codes
 ---
 Hello there! 
-I am Dustin, 18 years old and I love to code!
+I am Dustin, 19 years old and I love to code!
 - 🔭 I’m currently working on some cool projects.
 - ⛏ Contributing to ElderCraft.
 - 💬 Ask me about Java.
