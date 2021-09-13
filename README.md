@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Web-Development  
   
 
-- ❓ Ask me about anything related to Minecraft  
+- ❓ Ask me about anything related to Minecraft and Discord
   
 
 - ⚡ Fun fact: I use tabs over spaces  
