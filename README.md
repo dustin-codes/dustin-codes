@@ -4,9 +4,6 @@
 - 🔭 I’m currently contributing to Nothing
   
 
-- 🌱 I’m currently learning Web-Development  
-  
-
 - ❓ Ask me about anything related to Minecraft and Discord
   
 
