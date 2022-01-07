@@ -1,7 +1,7 @@
 ### <div align="center">I'm Dustin, a student with a love to code 👨‍💻 learning to code since 2019 🚀</div>  
   
 
-- 🔭 I’m currently contributing to Nothing
+- 🔭 I’m currently contributing to ElderCraft
   
 
 - ❓ Ask me about anything related to Minecraft and Discord
@@ -23,7 +23,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
 </div>  
 
 <br/>  
