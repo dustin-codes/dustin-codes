@@ -32,7 +32,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/dv4s1on" target="_blank">
+<a href="https://github.com/nopjar" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/dustin_codes" target="_blank">
@@ -51,14 +51,14 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dv4s1on&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nopjar&hide_border=true&layout=compact" align="center" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dv4s1on&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nopjar&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=dv4s1on&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=nopjar&&style=flat-square" align="center" />
 </div>  
 
 <br />
