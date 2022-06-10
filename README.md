@@ -7,7 +7,7 @@
 - ❓ Ask me about anything related to Minecraft and Discord
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use spaces over tabs  
   
 
 <br/>  
