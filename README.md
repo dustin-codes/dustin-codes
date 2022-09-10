@@ -1,7 +1,7 @@
 ### <div align="center">I'm Dustin, a student with a love to code 👨‍💻 learning to code since 2019 🚀</div>  
   
 
-- 🔭 I’m currently contributing to ElderCraft
+- 🔭 I’m currently contributing to my plan to lead the world
   
 
 - ❓ Ask me about anything related to Minecraft and Discord
