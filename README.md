@@ -1,4 +1,4 @@
-### Hi, welcome at my page. Coding since 2019
+### Hi, welcome at my page. Coding since 2019 🚀
 
 I am a computer science student enrolled at the technical university of munich.
 
