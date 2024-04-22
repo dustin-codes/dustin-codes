@@ -8,5 +8,5 @@ I am a computer science student with deep interest in algorithm, games and every
 - Sometimes contributing to open source projects like [Paper](https://github.com/PaperMC/Paper)
 - Languages:
   - 4+ years of Java
-  - Currenlty learning C++
+  - Currently learning C++
   - Basic knowledge in Python and C
